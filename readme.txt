@@ -6,3 +6,4 @@ Git is free software.
 第五次
 第六次
 Creating a new branch is quick.
+Creating a new branch is quick AND simple.
