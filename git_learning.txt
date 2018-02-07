@@ -1,6 +1,6 @@
 ﻿git 教程
 
-
+一些采坑经历
 windows中的换行符为 CRLF， 而在linux下的换行符为LF，所以在执行add . 时出现提示，解决办法：
     $ rm -rf .git  // 删除.git  
     $ git config --global core.autocrlf false  //禁用自动转换
